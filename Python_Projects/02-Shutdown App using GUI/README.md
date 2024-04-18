@@ -3,7 +3,7 @@
 The Shutdown App is a simple graphical application built using Tkinter that provides users with options to manage their computer shutdown operations. The app offers four main functionalities: Restart, Restart with a Timer, Log Out, and Shutdown.
 
 ### Features
-
+   
 - **Restart**: This button restarts the computer immediately when clicked.
   
 - **Restart Time**: Clicking this button initiates a restart after a 20-second delay, giving users a brief window to cancel if needed.
