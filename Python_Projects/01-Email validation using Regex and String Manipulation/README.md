@@ -3,7 +3,7 @@
 This repository contains two Python scripts for validating email addresses using different methods:
 
 1. Email validation using string manipulation
-2. Email validation using regular expressions (Regex)
+2. Email validation using regular expressions (Regex) 
 
 ## Project Description
 
