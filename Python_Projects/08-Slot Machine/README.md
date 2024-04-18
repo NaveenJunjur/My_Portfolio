@@ -1,5 +1,5 @@
 ## Slot Machine Game
-
+ 
 The Slot Machine Game is a Python command-line game that allows players to simulate playing a slot machine. Players can deposit money, place bets on multiple lines, and spin the slot machine to match symbols and win prizes based on bet amounts and matched symbols.
 
 ### Features
