@@ -1,5 +1,5 @@
 ## Translator using GUI
-
+  
 The Translator is a graphical application built using Tkinter and deep_translator library that allows users to translate text from one language to another. It provides a user-friendly interface where users can input text, select source and destination languages, and get the translated text instantly.
 
 ### Features
