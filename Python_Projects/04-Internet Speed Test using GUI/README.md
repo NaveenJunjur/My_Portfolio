@@ -2,7 +2,7 @@
 
 The Internet Speed Test is a graphical application built using Tkinter that allows users to check their internet download and upload speeds with the click of a button. It utilizes the Speedtest library to measure the speeds and displays the results on the GUI.
 
-### Features
+### Features  
 
 - **Download Speed**: Measures and displays the internet download speed in Mbps.
   
