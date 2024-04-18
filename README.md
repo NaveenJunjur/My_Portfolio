@@ -5,7 +5,7 @@ Welcome to my portfolio repository where I showcase my projects and work in data
 
 # Table of Contents
 
-- [Python Projects](https://github.com/NaveenJunjur123/Projects_test/tree/main/Python)
+- [Python Projects](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Python_Projects)
 - [SQL Projects](#project-2-sql-database-management)
 - [Tableau Projects](#project-3-tableau-visualization)
 - [Contact Information](#contact-information)
