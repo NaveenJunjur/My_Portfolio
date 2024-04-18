@@ -12,7 +12,7 @@ Welcome to my portfolio repository where I showcase my projects and work in data
 
 ## Python Projects
 
-### [1. Email Validation using Regex and String Manipulation](https://github.com/NaveenJunjur123/Projects_test/blob/main/Python/01-Email%20Validation%20using%20Regex%20and%20String%20Manipulation)
+### [1. Email Validation using Regex and String Manipulation](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Python_Projects/01-Email%20validation%20using%20Regex%20and%20String%20Manipulation)
 This project validates email addresses using both Regex and string manipulation techniques. It provides immediate feedback on the validity of the entered email.
 
 ### [2. QR Code Generator](https://github.com/NaveenJunjur123/Projects_test/blob/main/Python/02-QR%20Code%20Generator)
