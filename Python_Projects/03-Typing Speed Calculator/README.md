@@ -3,7 +3,7 @@
 The Typing Speed Calculator is a simple command-line tool that calculates your typing speed in words per second and identifies any errors in your typing. It provides a random paragraph for you to type and then measures your speed and accuracy based on the input you provide.
 
 ### Features
-
+  
 - **Random Paragraphs**: The tool offers a selection of random paragraphs to test your typing speed.
   
 - **Speed Calculation**: Calculates typing speed in words per second based on the time taken to type.
