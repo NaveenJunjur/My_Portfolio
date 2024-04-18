@@ -36,6 +36,6 @@ The Slot Machine Game is a Python command-line game that allows players to simul
   
 - **random**: Python library for generating random numbers.
 
-## <span style="color:red;">Important Note:</span>
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Important Note:
 
 *Not encouraging anyone to play any gambling game by doing this project. It was made for polishing my Python skills.*
