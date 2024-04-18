@@ -2,7 +2,7 @@
 
 The Voice Assistant is a simple speech recognition and speech synthesis application built using Python libraries such as pyttsx3 and speech_recognition. It allows users to interact with the assistant through voice commands to perform various tasks like getting the current time, opening websites, telling jokes, and more.
 
-### Features
+### Features  
 
 - **Speech Recognition**: Listens to user voice commands using a microphone and recognizes the spoken words.
   
