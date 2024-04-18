@@ -34,8 +34,8 @@ The Voice Assistant is a simple speech recognition and speech synthesis applicat
 
 ### Future Improvements
 
-- Implement more advanced natural language processing (NLP) to understand complex commands and queries.
+- Can implement more advanced natural language processing (NLP) to understand complex commands and queries.
 
-- Add more functionalities like sending emails, setting reminders, and more.
+- Can add more functionalities like sending emails, setting reminders, and more.
 
-- Improve speech recognition accuracy and response time.
+- Can improve speech recognition accuracy and response time.
