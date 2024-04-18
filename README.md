@@ -91,6 +91,5 @@ The Covid Analysis Dashboard visualizes COVID-19 data, highlighting pandemic tre
 
 ## Contact Information
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [LinkedIn Profile](#)
-- **GitHub**: [GitHub Profile](#)
+- **Email**: [naveenjunjur@gmail.com](mailto:naveenjunjur@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/naveen-junjur-1420a7288/)
