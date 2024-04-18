@@ -3,7 +3,7 @@
 The Password Manager is a Python command-line application that allows users to manage their passwords securely. It uses the Fernet encryption from the `cryptography` library to encrypt and decrypt passwords. Users can create a new encryption key, load an existing key, create a password file, load an existing password file, add new passwords, and retrieve passwords for specific sites.
 
 ### Features
-
+ 
 - **Encryption**: Uses Fernet encryption to securely store passwords.
   
 - **Key Management**: Allows users to create or load encryption keys for password encryption and decryption.
