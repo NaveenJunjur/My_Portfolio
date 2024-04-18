@@ -32,16 +32,6 @@ The Voice Assistant is a simple speech recognition and speech synthesis applicat
   
 - **pyjokes**: Python library to fetch jokes.
 
-### How to Use
-
-1. **Download the Code**: Clone or download the repository to your local machine.
-  
-2. **Install Required Libraries**: Install the required Python libraries using pip:
-
-3. **Run the Script**: Navigate to the directory containing the code and run the `voice_assistant.py` file.
-
-4. **Activate Assistant**: Say "hello i am here" to activate the assistant and start giving voice commands.
-
 ### Future Improvements
 
 - Implement more advanced natural language processing (NLP) to understand complex commands and queries.
