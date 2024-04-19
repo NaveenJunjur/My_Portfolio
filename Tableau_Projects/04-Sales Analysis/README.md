@@ -6,10 +6,10 @@ With intuitive legends and color-coded visualizations, users can easily interpre
 
 ### Dashboard Preview
 
-![Tableau Dashboard Preview]()
+![Tableau Dashboard Preview](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/04-Sales%20Analysis/Images/Sales%20Analysis.PNG)
 
 
 
-**Access the Dataset**: [Dataset Link]()
+**Access the Dataset**: [Dataset Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/04-Sales%20Analysis/sales_data_sample.csv)
   
-**Access the Dashboard**: [Dashboard Link]()
+**Access the Dashboard**: [Dashboard Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/04-Sales%20Analysis/Sales%20Dashboard.twbx)
