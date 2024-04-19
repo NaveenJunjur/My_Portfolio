@@ -8,7 +8,7 @@ With clear legends and color-coded charts, data interpretation becomes straightf
 
 ![Tableau Dashboard Preview](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/06-Covid%20Analysis/Images/Covid.PNG)
 
-
+<br>
 
 **Access the Dataset**: [Dataset Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/06-Covid%20Analysis/Copy%20of%20country_vaccinations.csv%2B%20(Multiple%20Connections)_Full%20Data.xlsx)
   
