@@ -1,8 +1,8 @@
-# Sales Analysis
+# Sales Data Analysis Project
 
 ## Overview
 
-This project focuses on analyzing sales data stored in a SQL database. The dataset, named `sales_data_sample`, contains information about sales transactions including details like product lines, countries, sales amounts, and order dates. The primary aim of this project is to gain insights into the sales performance, customer behavior, and product analysis using SQL queries.
+This project focuses on analyzing sales data stored in a SQL database. The dataset used for this analysis, `sales_data_sample`, contains information about sales transactions including details like product lines, countries, sales amounts, and order dates. The primary aim of this project is to gain insights into the sales performance, customer behavior, and product analysis using SQL queries.
 
 ## Dataset
 
@@ -19,6 +19,8 @@ The `sales_data_sample` dataset consists of the following columns:
 - `SALES`: Sales amount.
 - `CUSTOMERNAME`: Customer's name.
 - `ORDERDATE`: Date of the order.
+
+The dataset can be downloaded from [Sales Data Sample Dataset](SQL_Projects/01-Sales Analysis/sales_data_sample.csv).
 
 ## SQL Queries and Analysis
 
