@@ -38,20 +38,17 @@ The Slot Machine project is a code-based game that simulates a classic slot mach
 
 ## SQL Projects
 
-### [1. Sales Analysis](SQL/Sales_Analysis)
+### [1. Sales Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/01-Sales%20Analysis)
 The Sales Analysis project analyzes sales data to identify trends and patterns. It generates reports with graphs and charts to provide insights for sales strategy improvement.
 
-### [2. Absenteeism of Employee](SQL/Absenteeism_of_Employee)
+### [2. Absenteeism of Employee](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/02-Absenteeism%20Of%20Employee)
 The Absenteeism of Employee project studies employee absenteeism patterns over time and analyzes factors affecting attendance. It provides recommendations for improving attendance.
 
-### [3. HR Analysis](SQL/HR_Analysis)
+### [3. HR Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/03-HR%20Anlaysis)
 The HR Analysis project analyzes HR-related data to evaluate employee performance metrics. It assists in HR decision-making processes by providing valuable insights.
 
-### [4. Bikestore Analysis](SQL/Bikestore_Analysis)
+### [4. Bikestore Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/04-BikeStore%20Analysis)
 The Bikestore Analysis project analyzes bike sales data to identify top-selling models and trends. It tracks inventory levels and provides insights for inventory management.
-
-### [5. ODI Analysis](SQL/ODI_Analysis)
-The ODI Analysis project analyzes One Day International cricket data to evaluate player performance and match outcomes. It offers statistical insights for cricket enthusiasts.
 
 ## Tableau Projects
 
@@ -72,6 +69,9 @@ The Absenteeism of Employee Dashboard focuses on visualizing employee absenteeis
 
 ### [6. Covid Analysis](Tableau/Covid_Analysis)
 The Covid Analysis Dashboard visualizes COVID-19 data, highlighting pandemic trends, cases, and vaccination rates. It offers insights into the global and regional impact of the COVID-19 pandemic.
+
+### [7. ODI Analysis(Working on it)](SQL/ODI_Analysis)
+The ODI Analysis project analyzes One Day International cricket data to evaluate player performance and match outcomes. It offers statistical insights for cricket enthusiasts.
 
 ## Technologies Used
 - Python
