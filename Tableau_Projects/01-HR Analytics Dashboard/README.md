@@ -6,7 +6,7 @@ With intuitive legends and color-coded visualizations, users can easily interpre
 
 ### Dashboard Preview
 
-![Tableau Dashboard Preview]()
+![Tableau Dashboard Preview](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/01-HR%20Analytics%20Dashboard/Images/HR%20Analaytics%20dashboard.PNG)
 
 
 
