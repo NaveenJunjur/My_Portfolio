@@ -6,7 +6,7 @@ With intuitive legends and color-coded visualizations, users can easily interpre
 
 ### Dashboard Preview
 
-![Tableau Dashboard Preview]()
+![Tableau Dashboard Preview[]()](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/02-Goodreads%20Dashboard/Images/Goodreads%20Dashboard.PNG)
 
 
 
