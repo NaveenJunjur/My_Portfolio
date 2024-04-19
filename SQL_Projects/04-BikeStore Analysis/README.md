@@ -48,7 +48,7 @@ The dataset for this project can be found [here](https://github.com/NaveenJunjur
 
 For a visual representation of the insights derived from the SQL queries, you can view the interactive Tableau dashboard.
 
-### [Tableau Dashboard](#)  
+### [Tableau Dashboard](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/07-BikeStore%20Analysis)  
 
 ## Conclusion
 
