@@ -49,7 +49,9 @@ The `hr` dataset consists of the following columns:
 
 ## Visualization
 
-For a comprehensive visualization of the insights derived from the SQL queries, you can view the interactive Tableau dashboard.
+For a comprehensive visualization of the insights derived from the SQL queries, you can view the interactive Tableau dashboard
+
+![HR Analysis Dashboard]()
 
 ### [Tableau Dashboard](#)
 
