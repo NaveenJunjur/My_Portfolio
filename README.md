@@ -6,8 +6,8 @@ Welcome to my portfolio repository where I showcase my projects and work in data
 # Table of Contents
 
 - [Python Projects](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Python_Projects)
-- [SQL Projects](#project-2-sql-database-management)
-- [Tableau Projects](#project-3-tableau-visualization)
+- [SQL Projects](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects)
+- [Tableau Projects](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects)
 - [Contact Information](#contact-information)
 
 ## Python Projects
@@ -52,25 +52,25 @@ The Bikestore Analysis project analyzes bike sales data to identify top-selling 
 
 ## Tableau Projects
 
-### [1. HR Analytics Dashboard](Tableau/HR_Analytics_Dashboard)
+### [1. HR Analytics Dashboard](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/01-HR%20Analytics%20Dashboard)
 The HR Analytics Dashboard visualizes HR metrics and KPIs, providing a comprehensive view of employee turnover, recruitment, and performance. It offers actionable insights for HR strategy.
 
-### [2. Goodreads Dashboards](Tableau/Goodreads_Dashboards)
+### [2. Goodreads Dashboards](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/02-Goodreads%20Dashboard)
 The Goodreads Dashboards visualize book reviews and ratings, displaying top-rated books, authors, and genres. It helps book enthusiasts discover new reads and trends.
 
-### [3. Indian Space Missions Analysis](Tableau/Indian_Space_Missions_Analysis)
+### [3. Indian Space Missions Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/03-Indian%20Space%20Missions%20Analysis)
 The Indian Space Missions Analysis project analyzes data on Indian space missions, visualizing launch success rates, mission objectives, and more. It provides insights into India's space exploration efforts.
 
-### [4. Sales Dashboard](Tableau/Sales_Dashboard)
+### [4. Sales Dashboard](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/04-Sales%20Analysis)
 The Sales Dashboard visualizes sales data to track monthly, quarterly, and annual trends. It assists businesses in making informed sales decisions by highlighting key performance indicators.
 
-### [5. Absenteeism of Employee](Tableau/Absenteeism_of_Employee)
+### [5. Absenteeism of Employee](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/05-Absenteeism%20Of%20Employees)
 The Absenteeism of Employee Dashboard focuses on visualizing employee absenteeism rates, reasons, and trends. It assists HR departments in addressing attendance issues effectively.
 
-### [6. Covid Analysis](Tableau/Covid_Analysis)
+### [6. Covid Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/06-Covid%20Analysis)
 The Covid Analysis Dashboard visualizes COVID-19 data, highlighting pandemic trends, cases, and vaccination rates. It offers insights into the global and regional impact of the COVID-19 pandemic.
 
-### [7. Bikestore Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/04-BikeStore%20Analysis)
+### [7. Bikestore Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/Tableau_Projects/07-BikeStore%20Analysis)
 The Bikestore Analysis project analyzes bike sales data to identify top-selling models and trends. It tracks inventory levels and provides insights for inventory management.
 
 ## Technologies Used
