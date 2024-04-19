@@ -1,8 +1,8 @@
 ## Goodreads Dashboard
 
-This Tableau dashboard showcases essential Key Performance Indicators (KPIs) related to HR Anlaytics. It offers a range of interactive filters, allowing users to customize views based on specific criteria.
+This Tableau dashboard presents vital Key Performance Indicators (KPIs) focusing on Goodreads Anlaysis. Equipped with a variety of interactive filters, users can tailor their views to meet specific requirements.
 
-With intuitive legends and color-coded visualizations, users can easily interpret the data at a glance. The dashboard is designed to be user-friendly, enabling stakeholders to drill down into details, apply filters, and gain actionable insights effortlessly.
+With clear legends and color-coded charts, data interpretation becomes straightforward. The dashboard emphasizes user-friendliness, allowing stakeholders to delve into data nuances, employ filters, and extract meaningful insights with ease.
 
 ### Dashboard Preview
 
