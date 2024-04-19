@@ -10,6 +10,6 @@ With clear legends and color-coded charts, data interpretation becomes straightf
 
 
 
-**Access the Dataset**: [Dataset Link]()
+**Access the Dataset**: [Dataset Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/06-Covid%20Analysis/Copy%20of%20country_vaccinations.csv%2B%20(Multiple%20Connections)_Full%20Data.xlsx)
   
-**Access the Dashboard**: [Dashboard Link]()
+**Access the Dashboard**: [Dashboard Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/06-Covid%20Analysis/Covid%20Analysis(Packaged%20Format).twbx)
