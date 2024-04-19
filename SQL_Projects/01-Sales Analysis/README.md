@@ -20,7 +20,7 @@ The `sales_data_sample` dataset consists of the following columns:
 - `CUSTOMERNAME`: Customer's name.
 - `ORDERDATE`: Date of the order.
 
-The dataset can be downloaded from [Sales Data Sample Dataset](SQL_Projects/01-Sales Analysis/sales_data_sample.csv).
+The dataset can be downloaded from [Sales Data Sample Dataset](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/SQL_Projects/01-Sales%20Analysis/sales_data_sample.csv).
 
 ## SQL Queries and Analysis
 
