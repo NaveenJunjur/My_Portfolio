@@ -53,7 +53,7 @@ For a comprehensive visualization of the insights derived from the SQL queries, 
 
 ![HR Analysis Dashboard](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/SQL_Projects/03-HR%20Anlaysis/HR%20Analytics%20Dashboard.PNG)
 
-### [Tableau Dashboard](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/SQL_Projects/03-HR%20Anlaysis/Packaged%20Dashboard.twbx)
+### Download this dashboard [here](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/SQL_Projects/03-HR%20Anlaysis/Packaged%20Dashboard.twbx)
 
 ## Conclusion
 
