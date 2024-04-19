@@ -1,4 +1,4 @@
-# BikeStore Database Project
+# BikeStore Analysis
 
 ## Overview
 
@@ -40,11 +40,15 @@ The project involves creating the following schemas and tables:
 
 The project also includes a cleanup process to drop the tables and schemas after completing the tasks.
 
+## Dataset Link
+
+The dataset for this project can be found [here](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/04-BikeStore%20Analysis/Datasets).
+
 ## Visualization
 
 For a visual representation of the insights derived from the SQL queries, you can view the interactive Tableau dashboard.
 
-### [Tableau Dashboard](#)  <!-- Add your Tableau dashboard link here -->
+### [Tableau Dashboard](#)  
 
 ## Conclusion
 
