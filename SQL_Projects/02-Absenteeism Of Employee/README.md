@@ -27,23 +27,23 @@ The `Absenteeism_at_work` dataset consists of the following columns:
 
 ## SQL Queries and Optimization
 
-### Joining Tables
+### 1. Joining Tables
 
 - Created a join table by combining `Absenteeism_at_work` with `compensation` and `Reasons` tables to enrich the dataset with additional information.
 
-### Healthiest Employees Analysis
+### 2. Healthiest Employees Analysis
 
 - Identified the healthiest employees based on lifestyle habits and BMI to recommend them for a bonus.
 
-### Compensation Analysis
+### 3. Compensation Analysis
 
 - Calculated the number of non-smokers to determine the budget for increasing the compensation rate.
 
-### Data Transformation and Categorization
+### 4. Data Transformation and Categorization
 
 - Optimized the query to include calculated fields like `BMI_Category` and `Season_Names` to categorize employees based on BMI and month of absence respectively.
 
-### Optimized Query for Visualization
+### 5. Optimized Query for Visualization
 
 - Developed an optimized SQL query to fetch relevant columns for analysis and visualization.
 
