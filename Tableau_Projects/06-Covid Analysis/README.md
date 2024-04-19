@@ -6,7 +6,7 @@ With clear legends and color-coded charts, data interpretation becomes straightf
 
 ### Dashboard Preview
 
-![Tableau Dashboard Preview[]()
+![Tableau Dashboard Preview[](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/06-Covid%20Analysis/Images/Covid.PNG)
 
 
 
