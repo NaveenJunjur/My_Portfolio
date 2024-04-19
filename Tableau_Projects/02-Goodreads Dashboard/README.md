@@ -12,4 +12,4 @@ With clear legends and color-coded charts, data interpretation becomes straightf
 
 **Access the Dataset**: [Dataset Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/02-Goodreads%20Dashboard/books.csv)
   
-**Access the Dashboard**: [Dashboard Link]()
+**Access the Dashboard**: [Dashboard Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/02-Goodreads%20Dashboard/Goodreeds%20Dashboard.twbx)
