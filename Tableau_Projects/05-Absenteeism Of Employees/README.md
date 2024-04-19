@@ -6,10 +6,10 @@ With intuitive legends and color-coded visualizations, users can easily interpre
 
 ### Dashboard Preview
 
-![Tableau Dashboard Preview]()
+![Tableau Dashboard Preview](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/05-Absenteeism%20Of%20Employees/Images/Absenteeism.PNG)
 
 
 
-**Access the Dataset**: [Dataset Link]()
+**Access the Dataset**: [Dataset Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/05-Absenteeism%20Of%20Employees/Optimized%20Dataset(Excel).xlsx)
   
-**Access the Dashboard**: [Dashboard Link]()
+**Access the Dashboard**: [Dashboard Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/05-Absenteeism%20Of%20Employees/Absenteeism%20Dashboard.twbx)
