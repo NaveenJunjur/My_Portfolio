@@ -70,8 +70,8 @@ The Absenteeism of Employee Dashboard focuses on visualizing employee absenteeis
 ### [6. Covid Analysis](Tableau/Covid_Analysis)
 The Covid Analysis Dashboard visualizes COVID-19 data, highlighting pandemic trends, cases, and vaccination rates. It offers insights into the global and regional impact of the COVID-19 pandemic.
 
-### [7. ODI Analysis(Working on it)](SQL/ODI_Analysis)
-The ODI Analysis project analyzes One Day International cricket data to evaluate player performance and match outcomes. It offers statistical insights for cricket enthusiasts.
+### [7. Bikestore Analysis](https://github.com/NaveenJunjur/My_Portfoilio/tree/main/SQL_Projects/04-BikeStore%20Analysis)
+The Bikestore Analysis project analyzes bike sales data to identify top-selling models and trends. It tracks inventory levels and provides insights for inventory management.
 
 ## Technologies Used
 - Python
