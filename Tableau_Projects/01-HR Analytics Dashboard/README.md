@@ -6,4 +6,4 @@ With intuitive legends and color-coded visualizations, users can easily interpre
 
 **Access the Dataset**: [Dataset Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/01-HR%20Analytics%20Dashboard/HR%20Data.xlsx)
   
-**Access the Dashboard**: [Dashboard Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/01-HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard(Packaged%))
+**Access the Dashboard**: [Dashboard Link](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/01-HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard(Packaged%20Format).twbx)
