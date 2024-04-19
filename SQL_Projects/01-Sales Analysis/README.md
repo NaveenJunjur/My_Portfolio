@@ -24,23 +24,23 @@ The dataset can be downloaded from [Sales Data Sample Dataset](https://github.co
 
 ## SQL Queries and Analysis
 
-### Inspecting Data
+### 1. Inspecting Data
 
 - Checked the overall data and unique values for key columns like `STATUS`, `YEAR_ID`, `PRODUCTLINE`, `COUNTRY`, `DEALSIZE`, `TERRITORY`, and `MONTH_ID`.
 
-### Sales Analysis
+### 2. Sales Analysis
 
 - Grouped sales by `PRODUCTLINE`, `YEAR_ID`, and `DEALSIZE` to understand the revenue generated across different categories and years.
   
-### Best Sales Month Analysis
+### 3. Best Sales Month Analysis
 
 - Identified the best sales month in a specific year (`2004`) and analyzed the sales of products sold during that month.
 
-### Customer Analysis using RFM (Recency, Frequency, Monetary)
+### 4. Customer Analysis using RFM (Recency, Frequency, Monetary)
 
 - Calculated RFM values for each customer to segment them into different categories such as `lost_customers`, `Slipping away, cannot lose`, `new customers`, `potential churners`, `active`, and `loyal`.
 
-### Product Association Analysis
+### 5. Product Association Analysis
 
 - Identified which products are most often sold together by finding orders with two products and listing the product codes.
 
