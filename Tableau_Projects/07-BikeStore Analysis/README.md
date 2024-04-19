@@ -6,7 +6,7 @@ With clear legends and color-coded charts, data interpretation becomes straightf
 
 ### Dashboard Preview
 
-![Tableau Dashboard Preview]()
+![Tableau Dashboard Preview](https://github.com/NaveenJunjur/My_Portfoilio/blob/main/Tableau_Projects/07-BikeStore%20Analysis/Images/Bike%20Store.PNG)
 
 
 
