@@ -35,7 +35,7 @@ if __name__ == '__main__':
             data1 = sptext().lower()
 
             if "your name" in data1:
-                name = "my name is peter"
+                name = "my name is jarvis"
                 speechtx(name)
             elif "old are you" in data1:
                 age = "i am 21 years old"
